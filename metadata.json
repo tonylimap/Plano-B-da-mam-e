@@ -1,0 +1,6 @@
+{
+  "name": "Plano B da Mamãe",
+  "description": "Guia digital com atividades prontas para mães de crianças de 3 a 10 anos. Quando seu filho pedir a tela, você já tem um Plano B na mão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
